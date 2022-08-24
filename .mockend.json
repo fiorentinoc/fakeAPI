@@ -1,6 +1,14 @@
 {
   "Producto": {
-    "id": 1, "cat": "anillos", "mod": "royal", "precio": 350, "stk":10, "title": "Anillo Royal", "desc": "Este anillo te transportará dos siglos atrás donde las reinas lucían las creaciones de sus propios orfebres que eran ", "img": "anillo_imperial.jpg"},
+    "id": 1, 
+    "cat": "anillos", 
+    "mod": "royal", 
+    "precio": 350, 
+    "stk": 10, 
+    "title": "Anillo Royal", 
+    "desc": "Este anillo te transportará dos siglos atrás donde las reinas lucían las creaciones de sus propios orfebres que eran ", 
+    "img": "anillo_imperial.jpg"
+  },
   "Producto": {"id": 2, "cat": "anillos", "mod": "solitario", "precio": 200, "stk":10, "title": "Anillo Rococó", "desc": "Una pieza que supera la prueba del tiempo, este glamoroso anillo de halo tiene en el centro una impresionante circonia cú", "img": "anillo_rococo.jpg"},
   "Producto": {"id": 3, "cat": "anillos", "mod": "heart", "precio": 350, "stk":10, "title": "Anillo Cuore", "desc": "Expresa el verdadero deseo de tu corazón con este brillante anillo de eternidad. Acabado a mano en Recubrimiento en Oro", "img": "anillo_cuore.jpg"},
   "Producto": {"id": 4, "cat": "dijes", "mod": "star", "precio": 50, "stk":10, "title": "Gargantilla Star", "desc": "Da un toque de brillo a tus outfits con la gargantilla de Estrellas Asimétricas. Inspirado en la belleza celestial", "img": "gar_star.jpg"},
